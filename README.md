@@ -35,7 +35,7 @@
 <img src="https://github.com/alexandrevelozo/theme-switcher/blob/master/.github/light.png" alt="Theme Light" />
 <br/>&nbsp;
 
-<h4>Tablet:</h4>
+<h4>Dark:</h4>
 
 <img src="https://github.com/alexandrevelozo/theme-switcher/blob/master/.github/dark.png" alt="Theme Dark" />
 <br/>&nbsp;
